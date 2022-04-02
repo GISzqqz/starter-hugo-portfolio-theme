@@ -1,6 +1,7 @@
 ---
 title: Qi Zhang (张棋)
 role: ""
+avatar_filename: 头像.png
 bio: My research interests include drought propagation, machine learning, GIS
   technology
 superuser: true
