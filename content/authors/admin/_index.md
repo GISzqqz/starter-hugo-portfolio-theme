@@ -4,9 +4,8 @@ role: ""
 avatar_filename: 头像.png
 bio: My research interests include drought propagation, machine learning, GIS
   technology
-superuser: true
-status:
-  icon: ☕️
+interests:
+  - Drought
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,6 +16,14 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
+education:
+  courses:
+    - institution: Beijing Normal University
+      year: 1
+      course: GIS
+superuser: true
+status:
+  icon: ☕️
 ---
 
 
